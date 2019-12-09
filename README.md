@@ -151,3 +151,7 @@ Epoch 49/50
 Epoch 50/50
 390/390 [==============================] - 42s 109ms/step - loss: 0.6424 - acc: 0.7785 - val_loss: 0.5114 - val_acc: 0.8261
 
+# Assignment 4
+
+Sir, I have finished annotation assignment. I didn't get an annotation tab in the online tool for assignment 4a for downloading as a JSON file. I was also not able to download the project for Github. So, I have saved the project in the online tool with the username and password same as before. I have downloaded the CSV file for annotation for the Github. I was also getting an error for assignment 4b. But I have submitted it to Github. 
+
